@@ -1,0 +1,8 @@
+Before using the source run this in terminal inside the project:
+
+npm install # for installing the necessary dependencies like node_modules
+node scripts/mongo-algeria-wilayas.js # for adding willayas
+node scripts/mongo-categories.js # for adding jobs types 
+node scripts/mongo-seed.js # for adding fake or test data so the user dont start in an empty website
+
+And the user need to have MongoDB Compass to access the database
