@@ -1,3 +1,10 @@
+The user should create file in the project root named ".env" then paste this code so the website can work correctlly
+
+"MONGO_URI=mongodb://127.0.0.1:27017/mihna
+JWT_SECRET=mihna-development-secret
+PORT=4000"
+
+
 Before using the source run this in terminal inside the project:
 
 npm install # for installing the necessary dependencies like node_modules
